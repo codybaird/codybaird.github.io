@@ -1,0 +1,126 @@
+html {
+	background-image: url(teamsmile.png);
+}
+
+.header {
+	width:960px;
+	padding: 20px;
+  	margin: 20px;
+  	color: #eee;
+  	background: ##4aaaa5;
+}
+
+#topNav {
+	position: fixed;
+  	float: left;
+	width:650px;
+	border-bottom: 5px #eee;
+	background color: #ffffff;
+	border color: #cccccc;
+	font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+}
+
+#sideNav {
+	position: fixed;
+	float:left;
+	width:270px;
+	border-bottom: 5px #eee;
+	background color: #ffffff;
+	border color: #cccccc;
+	font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+}
+
+.main {
+	padding: 20px;
+  	margin: 20px;
+  	color: #eee;
+  	background: ##4aaaa5;
+}
+
+.footer {
+	padding: 20px;
+  	margin: 20px;
+  	color: #eee;
+  	background: ##4aaaa5;
+}
+
+
+h1 {
+	padding: 20px;
+	padding-left: 30px;
+	margin:0;
+	font-size: 28px;
+	color:white;
+	background:red;
+	text-align:left;
+}
+
+h2 {
+	font-size: 24px;
+	color: red;
+}
+
+h1, h2, h4 {
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+p {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	text-color: 777777;
+}
+
+li  {
+  list-style-type: none;
+  float: left;
+  background: white;
+  padding:20px;
+
+}
+
+li a {
+  text-decoration: none;
+  padding:20px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+
+#mainBio{
+  margin-bottom: 30px;
+  background: white;
+}
+
+#mainBio,
+#bioImage {
+  float: left;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+#mainBio p {
+  font-family: Arial, sans-serif;
+}
+
+#bioImage {
+  
+  margin-right: 20px;
+}
+
+#socialBar {
+  float: left;
+  padding:10px;
+  background: white;
+  margin:auto;
+
+}
+
+
+
+footer {
+  clear: both;
+  text-align: center;
+  padding:20px;
+  background: red;
+  border-top: 10px solid #4aaaa5;
+
+}
